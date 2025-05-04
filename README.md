@@ -1,4 +1,4 @@
-# 小谷记账簿 - 多功能个人记账系统
+# 多功能个人记账系统
 
 ![系统截图](https://via.placeholder.com/800x400?text=Demo+Screenshot) <!-- 建议替换为实际截图 -->
 
